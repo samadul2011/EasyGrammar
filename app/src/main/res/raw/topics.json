@@ -1,0 +1,2538 @@
+{
+  "Class 8": {
+    "Parts of Speech (basic)": {
+      "lessons": [
+        {
+          "en": "Noun: A word that names a person, place, thing, or idea. Example: boy, city."
+        },
+        {
+          "en": "Pronoun: A word used in place of a noun. Example: he, she, it."
+        },
+        {
+          "en": "Verb: A word that expresses action or state. Example: run, is."
+        },
+        {
+          "en": "Adjective: A word that describes a noun. Example: big, blue."
+        },
+        {
+          "en": "Adverb: A word that describes a verb, adjective, or adverb. Example: quickly, very."
+        },
+        {
+          "en": "Preposition: A word that shows relationship. Example: in, on, at."
+        },
+        {
+          "en": "Conjunction: A word that connects clauses. Example: and, but, or."
+        },
+        {
+          "en": "Interjection: A word that expresses emotion. Example: wow, oh."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The boy plays in the park. (boy - noun, plays - verb, park - noun)"
+        },
+        {
+          "en": "She gave it to him. (She - pronoun, it - pronoun, him - pronoun)"
+        },
+        {
+          "en": "They are running fast. (are - verb, running - verb)"
+        },
+        {
+          "en": "The big red apple is sweet. (big - adjective, red - adjective, sweet - adjective)"
+        },
+        {
+          "en": "He runs very quickly. (very - adverb, quickly - adverb)"
+        },
+        {
+          "en": "The book is on the table. (on - preposition)"
+        },
+        {
+          "en": "I like tea and coffee. (and - conjunction)"
+        },
+        {
+          "en": "Wow! What a surprise! (Wow - interjection)"
+        }
+      ],
+      "practice": [
+        {
+          "en": "Identify the nouns in: The teacher teaches students."
+        },
+        {
+          "en": "Find pronouns in: He gave her the book."
+        },
+        {
+          "en": "Underline verbs in: Birds fly in the sky."
+        },
+        {
+          "en": "Circle adjectives in: The tall man wears a black hat."
+        },
+        {
+          "en": "Identify adverbs in: She sings beautifully."
+        },
+        {
+          "en": "Find prepositions in: The cat is under the chair."
+        },
+        {
+          "en": "Spot conjunctions in: I study but play games."
+        },
+        {
+          "en": "Find interjections in: Oh! I forgot my keys."
+        },
+        {
+          "en": "Find out parts of speech from any sentences."
+        }
+      ],
+      "tests": [
+        {
+          "en": "Which part of speech is the word 'quickly' in the sentence: 'She runs quickly'?",
+          "options": [
+            "Noun",
+            "Verb",
+            "Adverb",
+            "Adjective"
+          ],
+          "answer": "Adverb"
+        },
+        {
+          "en": "Identify the noun in this sentence: 'The cat sleeps on the mat.'",
+          "options": [
+            "sleeps",
+            "cat",
+            "on",
+            "the"
+          ],
+          "answer": "cat"
+        },
+        {
+          "en": "What is the pronoun in: 'He gave her a book.'?",
+          "options": [
+            "gave",
+            "He",
+            "book",
+            "a"
+          ],
+          "answer": "He"
+        },
+        {
+          "en": "Which word is a verb in: 'Birds fly in the sky.'?",
+          "options": [
+            "Birds",
+            "in",
+            "fly",
+            "sky"
+          ],
+          "answer": "fly"
+        },
+        {
+          "en": "Find the adjective in: 'The big house is beautiful.'",
+          "options": [
+            "house",
+            "big",
+            "is",
+            "The"
+          ],
+          "answer": "big"
+        },
+        {
+          "en": "Which word is a preposition in: 'The book is on the table.'?",
+          "options": [
+            "book",
+            "is",
+            "on",
+            "table"
+          ],
+          "answer": "on"
+        },
+        {
+          "en": "Identify the conjunction in: 'I like tea and coffee.'",
+          "options": [
+            "like",
+            "tea",
+            "and",
+            "coffee"
+          ],
+          "answer": "and"
+        },
+        {
+          "en": "What part of speech is 'Wow' in: 'Wow! That's amazing!'?",
+          "options": [
+            "Interjection",
+            "Noun",
+            "Verb",
+            "Adjective"
+          ],
+          "answer": "Interjection"
+        },
+        {
+          "en": "Which word is an adverb in: 'She sings beautifully.'?",
+          "options": [
+            "She",
+            "sings",
+            "beautifully",
+            "all of them"
+          ],
+          "answer": "beautifully"
+        },
+        {
+          "en": "Find the verb in: 'They are playing football.'",
+          "options": [
+            "They",
+            "are",
+            "football",
+            "playing"
+          ],
+          "answer": "are"
+        },
+        {
+          "en": "Which part of speech describes a noun?",
+          "options": [
+            "Adverb",
+            "Adjective",
+            "Verb",
+            "Preposition"
+          ],
+          "answer": "Adjective"
+        },
+        {
+          "en": "Identify the pronoun in: 'It is raining outside.'",
+          "options": [
+            "is",
+            "raining",
+            "It",
+            "outside"
+          ],
+          "answer": "It"
+        }
+      ]
+    },
+    "Sentences (subject–predicate, kinds)": {
+      "lessons": [
+        {
+          "en": "Subject: The part that tells who or what is doing the action."
+        },
+        {
+          "en": "Predicate: The part that tells what the subject is doing or being."
+        },
+        {
+          "en": "Complete sentence: Has both a subject and a predicate."
+        },
+        {
+          "en": "Assertive (Statement): Makes a statement or declaration.\nExample: She reads a book.\nExample: The sun is bright.\nExample: The cat sat on the mat."
+        },
+        {
+          "en": "Interrogative (Question): Asks a question.\nExample: Do you like ice cream?\nExample: Where are you going?\nExample: Do you want to come with us?"
+        },
+        {
+          "en": "Imperative (Command): Gives a command or request.\nExample: Close the door.\nExample: Please help me.\nExample: Please sit down."
+        },
+        {
+          "en": "Exclamatory (Exclamation): Shows strong emotion or excitement.\nExample: What a beautiful day!\nExample: How clever you are!\nExample: What a lovely morning!"
+        },
+        {
+          "en": "Affirmative (Positive): States something in the positive form.\nExample: She likes ice cream.\nExample: I will go to school.\nExample: They are happy."
+        },
+        {
+          "en": "Negative (Negative): States something in the negative form using 'not', 'no', 'never'.\nExample: She does not like ice cream.\nExample: I will not go to school.\nExample: They are not happy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The boy runs. (Subject: The boy, Predicate: runs)"
+        },
+        {
+          "en": "Rahul is a good student. (Subject: Rahul, Predicate: is a good student)"
+        },
+        {
+          "en": "I love playing football. (Subject: I, Predicate: love playing football)"
+        },
+        {
+          "en": "Birds fly in the sky. (Subject: Birds, Predicate: fly in the sky)"
+        },
+        {
+          "en": "The flowers bloomed in spring. (Assertive sentence)"
+        },
+        {
+          "en": "Is he coming tomorrow? (Interrogative sentence)"
+        },
+        {
+          "en": "Help me with this work! (Imperative sentence)"
+        },
+        {
+          "en": "Wow, what a surprise! (Exclamatory sentence)"
+        },
+        {
+          "en": "She likes ice cream. (Affirmative sentence)"
+        },
+        {
+          "en": "I will not go to school. (Negative sentence)"
+        }
+      ],
+      "practice": [
+        {
+          "en": "Identify the subject: The teacher teaches English."
+        },
+        {
+          "en": "Identify the predicate: The students studied hard."
+        },
+        {
+          "en": "What type of sentence is this? She is very intelligent."
+        },
+        {
+          "en": "Change to a question: He plays cricket."
+        },
+        {
+          "en": "Change to a command: You should drink water."
+        },
+        {
+          "en": "Write a sentence with the subject 'My friend'."
+        },
+        {
+          "en": "Combine the subject and predicate: Subject: The flowers | Predicate: bloomed in spring."
+        },
+        {
+          "en": "Classify: 'Wow, that's amazing!' What type of sentence is this?"
+        },
+        {
+          "en": "Make an exclamatory sentence from: The view is beautiful."
+        },
+        {
+          "en": "Create your own imperative sentence using 'please'."
+        },
+        {
+          "en": "Change to negative: He speaks English."
+        },
+        {
+          "en": "Change to affirmative: She does not eat meat."
+        }
+      ],
+      "tests": [
+        {
+          "en": "What is the subject in: 'The teacher teaches English.'?",
+          "options": [
+            "teaches",
+            "The teacher",
+            "English",
+            "teacher teaches"
+          ],
+          "answer": "The teacher"
+        },
+        {
+          "en": "What is the predicate in: 'Birds fly in the sky.'?",
+          "options": [
+            "Birds",
+            "in the sky",
+            "fly in the sky",
+            "Birds fly"
+          ],
+          "answer": "fly in the sky"
+        },
+        {
+          "en": "What type of sentence is: 'She reads a book.'?",
+          "options": [
+            "Interrogative",
+            "Imperative",
+            "Assertive",
+            "Exclamatory"
+          ],
+          "answer": "Assertive"
+        },
+        {
+          "en": "What type of sentence is: 'Where are you going?'",
+          "options": [
+            "Assertive",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "answer": "Interrogative"
+        },
+        {
+          "en": "What type of sentence is: 'Close the door.'?",
+          "options": [
+            "Assertive",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "answer": "Imperative"
+        },
+        {
+          "en": "What type of sentence is: 'What a beautiful day!'?",
+          "options": [
+            "Assertive",
+            "Interrogative",
+            "Imperative",
+            "Exclamatory"
+          ],
+          "answer": "Exclamatory"
+        },
+        {
+          "en": "Which is an affirmative sentence?",
+          "options": [
+            "I do not like tea.",
+            "She likes ice cream.",
+            "They never go there.",
+            "He cannot swim."
+          ],
+          "answer": "She likes ice cream."
+        },
+        {
+          "en": "Which is a negative sentence?",
+          "options": [
+            "I will go to school.",
+            "She likes ice cream.",
+            "They are happy.",
+            "I will not go to school."
+          ],
+          "answer": "I will not go to school."
+        },
+        {
+          "en": "Identify the subject: 'Rahul is a good student.'",
+          "options": [
+            "is",
+            "Rahul",
+            "good student",
+            "is a good student"
+          ],
+          "answer": "Rahul"
+        },
+        {
+          "en": "Identify the predicate: 'The students studied hard.'",
+          "options": [
+            "The students",
+            "students",
+            "studied hard",
+            "hard"
+          ],
+          "answer": "studied hard"
+        },
+        {
+          "en": "What makes a complete sentence?",
+          "options": [
+            "Only a subject",
+            "Only a predicate",
+            "Subject and predicate",
+            "Only a verb"
+          ],
+          "answer": "Subject and predicate"
+        },
+        {
+          "en": "Which sentence asks a question?",
+          "options": [
+            "She is reading.",
+            "Do you like ice cream?",
+            "Close the window.",
+            "What a nice day!"
+          ],
+          "answer": "Do you like ice cream?"
+        }
+      ]
+    },
+    "Changing Sentences": {
+      "lessons": [
+        {
+          "en": "Assertive to Interrogative: Move subject after auxiliary verb.\nExample: She likes tea. → Does she like tea?"
+        },
+        {
+          "en": "Interrogative to Assertive: Change question to statement form.\nExample: Do you play cricket? → You play cricket."
+        },
+        {
+          "en": "Affirmative to Negative: Add 'not' with auxiliary verb.\nExample: He goes to school. → He does not go to school."
+        },
+        {
+          "en": "Negative to Affirmative: Remove 'not' and adjust verb.\nExample: She does not like tea. → She likes tea."
+        },
+        {
+          "en": "Assertive to Exclamatory: Use exclamation mark and add 'What' or 'How'.\nExample: She is very clever. → How clever she is! / What a clever girl!"
+        },
+        {
+          "en": "Exclamatory to Assertive: Convert to statement form.\nExample: What a beautiful day! → The day is beautiful."
+        },
+        {
+          "en": "Assertive to Imperative: Use base form of verb with direct address.\nExample: You should help him. → Help him."
+        },
+        {
+          "en": "Imperative to Assertive: Add subject and main verb.\nExample: Close the door. → You should close the door."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Assertive to Interrogative: They eat rice. → Do they eat rice?"
+        },
+        {
+          "en": "Interrogative to Assertive: Is he coming? → He is coming."
+        },
+        {
+          "en": "Affirmative to Negative: She speaks English. → She does not speak English."
+        },
+        {
+          "en": "Negative to Affirmative: He is not happy. → He is happy."
+        },
+        {
+          "en": "Assertive to Exclamatory: You are very kind. → How kind you are!"
+        },
+        {
+          "en": "Exclamatory to Assertive: What a bright student! → The student is very bright."
+        },
+        {
+          "en": "Assertive to Imperative: You must read this book. → Read this book."
+        },
+        {
+          "en": "Imperative to Assertive: Sit down. → You should sit down."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Convert to interrogative: She likes ice cream."
+        },
+        {
+          "en": "Convert to assertive: Do you study hard?"
+        },
+        {
+          "en": "Convert to negative: He works in a hospital."
+        },
+        {
+          "en": "Convert to affirmative: They do not play football."
+        },
+        {
+          "en": "Convert to exclamatory: The sky is very beautiful."
+        },
+        {
+          "en": "Convert to assertive: What a wonderful opportunity!"
+        },
+        {
+          "en": "Convert to imperative: You should drink water."
+        },
+        {
+          "en": "Convert to assertive: Come here immediately."
+        },
+        {
+          "en": "Change from affirmative to negative and then back to affirmative."
+        },
+        {
+          "en": "Convert this sentence to all four types: 'The teacher teaches well.'"
+        }
+      ],
+      "tests": [
+        {
+          "en": "Convert to interrogative: He plays football.",
+          "options": [
+            "Does he play football?",
+            "He plays football?",
+            "Did he play football?",
+            "Is he playing football?"
+          ],
+          "answer": "Does he play football?"
+        },
+        {
+          "en": "Convert to assertive: Are you ready?",
+          "options": [
+            "You are ready?",
+            "You are ready.",
+            "You were ready.",
+            "You will be ready."
+          ],
+          "answer": "You are ready."
+        },
+        {
+          "en": "Convert to negative: He likes music.",
+          "options": [
+            "He does not like music.",
+            "He did not like music.",
+            "He is not liking music.",
+            "He was not liking music."
+          ],
+          "answer": "He does not like music."
+        },
+        {
+          "en": "Convert to affirmative: She does not want to go.",
+          "options": [
+            "She wants to go.",
+            "She wanted to go.",
+            "She will want to go.",
+            "She is wanting to go."
+          ],
+          "answer": "She wants to go."
+        },
+        {
+          "en": "Convert to exclamatory: The view is wonderful.",
+          "options": [
+            "What a wonderful view!",
+            "Is the view wonderful?",
+            "The view is wonderful?",
+            "How wonderful view!"
+          ],
+          "answer": "What a wonderful view!"
+        },
+        {
+          "en": "Convert to exclamatory: He is so tall.",
+          "options": [
+            "How tall he is!",
+            "What a tall he is!",
+            "He is tall!",
+            "Is he so tall!"
+          ],
+          "answer": "How tall he is!"
+        },
+        {
+          "en": "Convert to assertive: How brave you are!",
+          "options": [
+            "You are very brave.",
+            "You are brave.",
+            "Are you brave?",
+            "You were brave."
+          ],
+          "answer": "You are very brave."
+        },
+        {
+          "en": "Convert to interrogative: They can swim fast.",
+          "options": [
+            "Can they swim fast?",
+            "Do they swim fast?",
+            "They can swim fast?",
+            "Could they swim fast?"
+          ],
+          "answer": "Can they swim fast?"
+        },
+        {
+          "en": "Convert to imperative: You should finish your homework.",
+          "options": [
+            "Finish your homework.",
+            "You finish your homework.",
+            "Finishing your homework.",
+            "Do you finish your homework?"
+          ],
+          "answer": "Finish your homework."
+        },
+        {
+          "en": "Convert to assertive: Sit here quietly.",
+          "options": [
+            "You should sit here quietly.",
+            "You are sitting here quietly.",
+            "You sat here quietly.",
+            "Sit here quietly."
+          ],
+          "answer": "You should sit here quietly."
+        },
+        {
+          "en": "Convert to negative: The students study hard.",
+          "options": [
+            "The students do not study hard.",
+            "The students did not study hard.",
+            "The students are not studying hard.",
+            "The students were not studying hard."
+          ],
+          "answer": "The students do not study hard."
+        },
+        {
+          "en": "Convert to affirmative: I do not need help.",
+          "options": [
+            "I need help.",
+            "I needed help.",
+            "I will need help.",
+            "I am needing help."
+          ],
+          "answer": "I need help."
+        }
+      ]
+    },
+    "Articles (a/an/the, zero)": {
+      "lessons": [
+        {
+          "en": "Use 'a' before consonant sounds when introducing a singular countable noun for the first time. Example: a cat."
+        },
+        {
+          "en": "More examples: a dog, a university (starts with 'yoo' sound), a European trip, a one-eyed monster, a house."
+        },
+        {
+          "en": "Use 'an' before vowel sounds to make pronunciation smooth. Example: an umbrella."
+        },
+        {
+          "en": "More examples: an apple, an hour (silent 'h'), an elephant, an honest mistake, an MBA degree (starts with 'em' sound)."
+        },
+        {
+          "en": "Use 'the' when both speaker and listener know which noun is meant or when you mention something again. Example: the umbrella you lent me."
+        },
+        {
+          "en": "More examples: I bought a phone yesterday. The phone is amazing. / Pass me the salt (on the table). / She's the girl I told you about."
+        },
+        {
+          "en": "Use no article (zero article) with plural or uncountable nouns when speaking generally. Example: Books are useful."
+        },
+        {
+          "en": "More examples: Dogs love bones. / Water boils at 100°C. / Happiness comes from within. / People make mistakes."
+        },
+        {
+          "en": "Use 'the' with uncountable and plural nouns when the item is specific. Example: the milk in the glass."
+        },
+        {
+          "en": "More examples: The water in this bottle is cold. / The books on the shelf are mine. / The rice you cooked was delicious. / The advice she gave helped a lot."
+        },
+        {
+          "en": "Use 'some' or 'any' instead of articles with uncountable nouns when you mean an unspecified amount. Example: some water."
+        },
+        {
+          "en": "More examples: Do you have any sugar? / I need some help. / Would you like some coffee? / There isn't any milk left. / She bought some furniture."
+        },
+        {
+          "en": "Skip articles before names, meals, and abstract nouns when they refer to general ideas. Example: Breakfast is ready, Freedom matters."
+        },
+        {
+          "en": "More examples: Lunch starts at noon. / Love is blind. / Honesty is the best policy. / Paris is beautiful. / I speak Arabic fluently."
+        },
+        {
+          "en": "Use 'a/an' with jobs, single letters, and measurements when talking about one item. Example: a doctor, an hour."
+        },
+        {
+          "en": "More examples: She's a teacher. / He's an engineer. / It's a U-turn. / We waited an hour. / He scored a hundred points. / It's an X-ray machine."
+        },
+        {
+          "en": "Use 'the' for unique things in the world or in the context. Example: the sun, the moon, the Internet, the president (of a specific country)."
+        },
+        {
+          "en": "Use 'the' with superlatives and ordinal numbers. Example: the best movie, the first time, the tallest building in the world."
+        },
+        {
+          "en": "Use 'the' when something is made unique by additional information (like adjectives, phrases, or clauses). Example: the book on the table, the man who called yesterday."
+        },
+        {
+          "en": "Use zero article (∅) with most proper nouns like names of people, most countries, cities, languages, and days/months. Example: Paris is beautiful. I speak Arabic. We meet on Monday."
+        },
+        {
+          "en": "Use 'the' with some proper nouns: mountain ranges, deserts, oceans, rivers, groups of islands, and certain country names. Example: the Himalayas, the Sahara, the Pacific Ocean, the Nile, the Bahamas, the United Kingdom."
+        },
+        {
+          "en": "Use zero article with sports, games, subjects at school/college, and meals in general. Example: I play football. She studies biology. Dinner is at 7."
+        },
+        {
+          "en": "Use zero article with means of transport and institutions when referring to their general purpose (especially British English). Example: go to school, by bus, in hospital (BrE), in bed."
+        },
+        {
+          "en": "Use 'the' when referring to musical instruments in general. Example: She plays the piano. He is learning the guitar."
+        },
+        {
+          "en": "Use 'a/an' when talking about one example of a group or category (especially professions/nationalities). Example: She's a teacher. He's an engineer. My friend is a Canadian."
+        },
+        {
+          "en": "Use zero article with uncountable nouns or plural nouns in general statements, but switch to 'the' when specific. Example: Love is important. (general) vs. The love between them was strong. (specific)."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I saw a dog. The dog was barking loudly."
+        },
+        {
+          "en": "She ate an orange after school."
+        },
+        {
+          "en": "Bring me the pen that is on the desk."
+        },
+        {
+          "en": "Children enjoy games."
+        },
+        {
+          "en": "Honesty is the best policy."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Fill in: He is ___ honest man."
+        },
+        {
+          "en": "Fill in: Do you have ___ umbrella?"
+        },
+        {
+          "en": "Fill in: ___ moon looks beautiful tonight."
+        },
+        {
+          "en": "Correct: She is university student. (Add article)"
+        },
+        {
+          "en": "Correct: I need advice. (Add article if needed)"
+        }
+      ],
+      "tests": [
+        {
+          "en": "Fill in: I saw ___ elephant at ___ zoo.",
+          "options": [
+            "an, the",
+            "a, the",
+            "an, a",
+            "the, a"
+          ],
+          "answer": "an, the"
+        },
+        {
+          "en": "Fill in: He is ___ honest boy.",
+          "options": [
+            "an",
+            "a",
+            "the",
+            "no article"
+          ],
+          "answer": "an"
+        },
+        {
+          "en": "Fill in: ___ milk is good for health.",
+          "options": [
+            "no article",
+            "A",
+            "An",
+            "The"
+          ],
+          "answer": "no article"
+        },
+        {
+          "en": "Fill in: Please pass me ___ salt.",
+          "options": [
+            "the",
+            "a",
+            "an",
+            "no article"
+          ],
+          "answer": "the"
+        },
+        {
+          "en": "Fill in: ___ children love ___ chocolate.",
+          "options": [
+            "no article, no article",
+            "The, the",
+            "A, a",
+            "The, no article"
+          ],
+          "answer": "no article, no article"
+        },
+        {
+          "en": "Fill in: She plays ___ violin very well.",
+          "options": [
+            "the",
+            "a",
+            "an",
+            "no article"
+          ],
+          "answer": "the"
+        },
+        {
+          "en": "Fill in: He wants to become ___ engineer.",
+          "options": [
+            "an",
+            "a",
+            "the",
+            "no article"
+          ],
+          "answer": "an"
+        },
+        {
+          "en": "Fill in: ___ sun rises in ___ east.",
+          "options": [
+            "The, the",
+            "A, the",
+            "The, an",
+            "no article, the"
+          ],
+          "answer": "The, the"
+        },
+        {
+          "en": "Fill in: ___ honesty is ___ best policy.",
+          "options": [
+            "no article, the",
+            "The, the",
+            "A, a",
+            "An, the"
+          ],
+          "answer": "no article, the"
+        },
+        {
+          "en": "Fill in: Can you play ___ piano?",
+          "options": [
+            "the",
+            "a",
+            "an",
+            "no article"
+          ],
+          "answer": "the"
+        },
+        {
+          "en": "Fill in: We usually have ___ breakfast at 7 o'clock.",
+          "options": [
+            "no article",
+            "a",
+            "an",
+            "the"
+          ],
+          "answer": "no article"
+        },
+        {
+          "en": "Fill in: Do you need ___ pen?",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "no article"
+          ],
+          "answer": "a"
+        }
+      ]
+    },
+    "Prepositions (time/place/movement)": {
+      "lessons": [
+        {
+          "en": "Use 'at' for exact times, 'on' for days or dates, and 'in' for months, years, and long periods. Example: at 5 pm, on Monday, in June."
+        },
+        {
+          "en": "More examples: at midnight, at 3:30, on Friday, on December 25th, on my birthday, in 2025, in the 21st century, in the morning, in summer."
+        },
+        {
+          "en": "Use 'in' for enclosed spaces, 'on' for surfaces, and 'at' for specific points when describing place. Example: in the room, on the table, at the door."
+        },
+        {
+          "en": "More examples: in the car, in Muscat, in Oman, on the wall, on the floor, on page 10, at the bus stop, at the airport, at home, at work."
+        },
+        {
+          "en": "Use 'to', 'into', and 'onto' when describing motion toward a place or onto a surface. Example: go to school, walk into the room, climb onto the chair."
+        },
+        {
+          "en": "More examples: drive to the city, fly to London, send it to me, put the keys into the drawer, jump into the pool, step onto the stage, throw the ball onto the roof."
+        },
+        {
+          "en": "Use 'from' to show the starting point of movement and 'through', 'across', 'over' for moving across areas. Example: from the city, through the tunnel, across the river."
+        },
+        {
+          "en": "More examples: come from Muscat, travel from home, walk through the park, drive through the mountains, swim across the lake, run across the street, fly over the ocean, climb over the fence."
+        },
+        {
+          "en": "Use 'by' for means of transport and 'with' for tools or accompaniment. Example: by bus, with a pencil."
+        },
+        {
+          "en": "More examples: by car, by train, by plane, by bike, by foot / on foot, write with a pen, cut with a knife, help with friends, travel with family, paint with brushes."
+        },
+        {
+          "en": "Use 'during' and 'for' to talk about duration and 'before'/'after' to talk about order. Example: during the summer, for two hours, before lunch."
+        },
+        {
+          "en": "More examples: during the meeting, during Ramadan, for three days, for a long time, wait for 10 minutes, before class, after school, before dinner, after the movie, study for an exam."
+        },
+        {
+          "en": "Use 'since' for the starting point of a period that continues until now, and 'for' for the duration/length of time. Example: since 2020, for three years."
+        },
+        {
+          "en": "Use 'by' for deadlines or the latest time something happens, and 'until/till' for the end point of a period. Example: by tomorrow, until midnight."
+        },
+        {
+          "en": "Use 'in' for longer periods like parts of the day (morning/afternoon/evening), months, seasons, years; but 'at' for night and specific short times like weekends/holidays in some varieties. Example: in the morning, at night, at the weekend (BrE) / on the weekend (AmE)."
+        },
+        {
+          "en": "Use 'on' for specific dates, named days, and parts of days when combined with dates/days. Example: on 31 January, on Friday evening, on my birthday."
+        },
+        {
+          "en": "Use 'under', 'below', 'above', 'over' for vertical position; 'under/below' for lower, 'above/over' for higher (over often implies covering). Example: under the table, below zero, above the clouds, over the bridge."
+        },
+        {
+          "en": "Use 'between' for two things/people, and 'among' for three or more (or in a group). Example: between you and me, among friends, choose among the options."
+        },
+        {
+          "en": "Use 'next to', 'beside', 'near', 'close to' for proximity; 'opposite' for facing across. Example: next to the mosque, beside the sea, near Muttrah, opposite the shop."
+        },
+        {
+          "en": "Use 'along', 'past', 'up', 'down' for movement in a line or direction. Example: walk along the corniche, drive past the palace, go up the stairs, run down the street."
+        },
+        {
+          "en": "Use 'in' when entering enclosed vehicles like cars/taxis, but 'on' for public/open transport like buses/trains/planes/bikes/horses. Example: get in the car, get on the bus, travel on a plane."
+        },
+        {
+          "en": "Use 'off' for leaving a surface or transport, opposite of 'on/onto'; 'out of' opposite of 'into'. Example: get off the train, jump off the wall, get out of the house."
+        }
+      ],
+      "examples": [
+        {
+          "en": "He arrived at 5 pm and sat on the bench in the park."
+        },
+        {
+          "en": "The cat jumped onto the table and then crawled into the box."
+        },
+        {
+          "en": "We walked through the market from the gate to the temple."
+        },
+        {
+          "en": "She traveled by train and read a book during the journey."
+        },
+        {
+          "en": "The children sat beside their teacher after the assembly."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Fill in: We live ___ Dhaka."
+        },
+        {
+          "en": "Fill in: She studies ___ the morning."
+        },
+        {
+          "en": "Fill in: The bird flew ___ the tree."
+        },
+        {
+          "en": "Choose: They rode ___ bike / by bike / at bike."
+        },
+        {
+          "en": "Fill in: He went ___ school ___ foot."
+        },
+        {
+          "en": "Fill in: The guests arrived ___ the hall before dinner."
+        }
+      ],
+      "tests": [
+        {
+          "en": "Fill in: We meet ___ 6 pm.",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "by"
+          ],
+          "answer": "at"
+        },
+        {
+          "en": "Fill in: The cat slept ___ the sofa.",
+          "options": [
+            "on",
+            "in",
+            "at",
+            "by"
+          ],
+          "answer": "on"
+        },
+        {
+          "en": "Fill in: They walked ___ the park to the school.",
+          "options": [
+            "through",
+            "across",
+            "over",
+            "into"
+          ],
+          "answer": "through"
+        },
+        {
+          "en": "Fill in: I will study ___ Tuesday.",
+          "options": [
+            "on",
+            "at",
+            "in",
+            "by"
+          ],
+          "answer": "on"
+        },
+        {
+          "en": "Fill in: We travelled ___ bus.",
+          "options": [
+            "by",
+            "on",
+            "in",
+            "at"
+          ],
+          "answer": "by"
+        },
+        {
+          "en": "Fill in: The letter is ___ the drawer.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "into"
+          ],
+          "answer": "in"
+        },
+        {
+          "en": "Fill in: He jumped ___ the river.",
+          "options": [
+            "into",
+            "in",
+            "on",
+            "at"
+          ],
+          "answer": "into"
+        },
+        {
+          "en": "Fill in: She lives ___ Seeb, near Muscat.",
+          "options": [
+            "in",
+            "on",
+            "at",
+            "by"
+          ],
+          "answer": "in"
+        },
+        {
+          "en": "Fill in: The movie starts ___ 8 o'clock sharp.",
+          "options": [
+            "at",
+            "on",
+            "in",
+            "by"
+          ],
+          "answer": "at"
+        },
+        {
+          "en": "Fill in: The cat jumped ___ the wall.",
+          "options": [
+            "over",
+            "above",
+            "on",
+            "at"
+          ],
+          "answer": "over"
+        },
+        {
+          "en": "Fill in: The kids played ___ the park ___ the afternoon.",
+          "options": [
+            "in, in",
+            "at, in",
+            "on, at",
+            "in, at"
+          ],
+          "answer": "in, in"
+        },
+        {
+          "en": "Fill in: We need to finish this project ___ Friday.",
+          "options": [
+            "by",
+            "on",
+            "at",
+            "in"
+          ],
+          "answer": "by"
+        }
+      ]
+    },
+    "Tense (simple)": {
+      "lessons": [
+        {
+          "en": "PRESENT TENSE\nSimple Present: subject + base verb. Habits and truths. Structure: She reads. Example: Birds fly south in winter."
+        },
+        {
+          "en": "More examples: Water boils at 100°C. / She speaks Arabic fluently. / The sun rises in the east. / We visit the Grand Mosque every Friday. / Coffee wakes me up in the morning."
+        },
+        {
+          "en": "Present Continuous: subject + am/is/are + verb-ing. Actions happening now. Structure: She is reading. Example: He is studying mathematics right now."
+        },
+        {
+          "en": "More examples: It is raining heavily outside. / They are playing football in the park. / I am cooking majboos for dinner. / She is driving to Seeb right now. / The kids are watching cartoons."
+        },
+        {
+          "en": "Present Perfect: subject + have/has + past participle. Started in past, continues now or has relevance now. Structure: She has read. Example: I have lived here for 5 years."
+        },
+        {
+          "en": "More examples: We have just finished lunch. / She has visited Nizwa Fort twice. / They have lost their keys again. / I have never tried Omani halwa before. / He has already left for the airport."
+        },
+        {
+          "en": "Present Perfect Continuous: subject + have/has been + verb-ing. Action started before now, still happening or recently stopped (focus on duration). Structure: She has been reading. Example: They have been waiting for an hour."
+        },
+        {
+          "en": "More examples: It has been raining since morning. / She has been learning Arabic for six months. / We have been walking around Muttrah Souq all afternoon. / He has been feeling tired lately. / The workers have been repairing the road for weeks."
+        },
+        {
+          "en": "PAST TENSE\nSimple Past: subject + past form. Completed action at definite time. Structure: She read. Example: We visited the museum yesterday."
+        },
+        {
+          "en": "More examples: I bought dates from the market last week. / They watched the sunset at Qurum Beach. / She called me yesterday evening. / He finished his homework early. / We celebrated Eid with family."
+        },
+        {
+          "en": "Past Continuous: subject + was/were + verb-ing. Action happening at a specific past time (often interrupted). Structure: She was reading. Example: I was sleeping when the phone rang."
+        },
+        {
+          "en": "More examples: We were driving to Muscat when it started raining. / She was cooking when the power went out. / They were playing in the garden at 5 pm. / He was working late last night. / I was waiting for the bus at the stop."
+        },
+        {
+          "en": "Past Perfect: subject + had + past participle. One past action before another past action. Structure: She had read. Example: He had finished dinner before she arrived."
+        },
+        {
+          "en": "More examples: They had left before the storm began. / She had already eaten when I invited her. / We had visited the wadi before we went to the beach. / By the time we arrived, the shop had closed. / He had studied English before he moved to Oman."
+        },
+        {
+          "en": "Past Perfect Continuous: subject + had been + verb-ing. Action in progress before another past action (emphasis on duration). Structure: She had been reading. Example: They had been playing for two hours when it started raining."
+        },
+        {
+          "en": "More examples: She had been waiting for the taxi for 30 minutes when it finally came. / We had been walking in the heat for hours before we found shade. / He had been working all day, so he was exhausted. / They had been arguing for a long time before they made up. / I had been living in Muscat for three years before I learned some Dhofari words."
+        },
+        {
+          "en": "FUTURE TENSE\nSimple Future: subject + will + base verb. Planned or predicted action. Structure: She will read. Example: We will go to the beach tomorrow."
+        },
+        {
+          "en": "More examples: I will call you later tonight. / She will travel to Salalah next month. / It will be very hot tomorrow. / They will finish the project soon. / We will meet at the café after work."
+        },
+        {
+          "en": "Future Continuous: subject + will be + verb-ing. Action that will be happening at a specific future time. Structure: She will be reading. Example: I will be working when you arrive."
+        },
+        {
+          "en": "More examples: At 8 pm, we will be having dinner. / She will be studying at the library tomorrow afternoon. / They will be flying to Dubai this time next week. / I will be driving to Nizwa around noon. / He will be waiting for us at the gate."
+        },
+        {
+          "en": "Future Perfect: subject + will have + past participle. Action that will be completed before a future time. Structure: She will have read. Example: By next year, she will have completed her studies."
+        },
+        {
+          "en": "More examples: By Ramadan, we will have saved enough money for a trip. / She will have arrived home by the time you call. / They will have finished the construction by December. / I will have learned 200 Arabic words by the end of the course. / He will have eaten breakfast before 7 am."
+        },
+        {
+          "en": "Future Perfect Continuous: subject + will have been + verb-ing. Action in progress up to a future time (emphasis on duration). Structure: She will have been reading. Example: By evening, they will have been working for 8 hours."
+        },
+        {
+          "en": "More examples: By next summer, she will have been living in Oman for ten years. / By the time the flight lands, we will have been traveling for 12 hours. / They will have been waiting for over an hour by then. / I will have been studying English for two years by December. / He will have been driving for six hours when he reaches Salalah."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Simple Present: The teacher teaches English every day."
+        },
+        {
+          "en": "Present Continuous: The students are writing a test now."
+        },
+        {
+          "en": "Present Perfect: I have completed my homework."
+        },
+        {
+          "en": "Present Perfect Continuous: We have been learning English for 3 years."
+        },
+        {
+          "en": "Simple Past: She went to the market yesterday."
+        },
+        {
+          "en": "Past Continuous: While I was reading, the doorbell rang."
+        },
+        {
+          "en": "Past Perfect: He had finished his meal before we arrived."
+        },
+        {
+          "en": "Past Perfect Continuous: They had been walking for hours when they found shelter."
+        },
+        {
+          "en": "Simple Future: You will get the result next week."
+        },
+        {
+          "en": "Future Continuous: At 8 pm tomorrow, I will be watching a movie."
+        },
+        {
+          "en": "Future Perfect: By 2026, she will have graduated from university."
+        },
+        {
+          "en": "Future Perfect Continuous: By June, they will have been working here for 5 years."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Convert to present continuous: She (read) a book."
+        },
+        {
+          "en": "Convert to simple past: They (play) cricket yesterday."
+        },
+        {
+          "en": "Convert to present perfect: I (finish) my work."
+        },
+        {
+          "en": "Convert to past continuous: While he (study), the phone rang."
+        },
+        {
+          "en": "Convert to simple future: We (meet) you after class."
+        },
+        {
+          "en": "Convert to future continuous: At 3 pm, I (do) my homework."
+        }
+      ],
+      "tests": [
+        {
+          "en": "Change to present continuous: She plays the piano.",
+          "options": [
+            "She is playing the piano.",
+            "She was playing the piano.",
+            "She has played the piano.",
+            "She will play the piano."
+          ],
+          "answer": "She is playing the piano."
+        },
+        {
+          "en": "Change to simple past: They eat dinner at 7 pm.",
+          "options": [
+            "They ate dinner at 7 pm.",
+            "They have eaten dinner at 7 pm.",
+            "They are eating dinner at 7 pm.",
+            "They were eating dinner at 7 pm."
+          ],
+          "answer": "They ate dinner at 7 pm."
+        },
+        {
+          "en": "Change to present perfect: I finish my project.",
+          "options": [
+            "I have finished my project.",
+            "I finished my project.",
+            "I am finishing my project.",
+            "I will finish my project."
+          ],
+          "answer": "I have finished my project."
+        },
+        {
+          "en": "Change to simple future: You will finish the work tomorrow.",
+          "options": [
+            "You will finish the work tomorrow.",
+            "You finished the work tomorrow.",
+            "You are finishing the work tomorrow.",
+            "You have finished the work tomorrow."
+          ],
+          "answer": "You will finish the work tomorrow."
+        },
+        {
+          "en": "Change to simple present: She is reading a book right now.",
+          "options": [
+            "She reads books.",
+            "She read books.",
+            "She has read books.",
+            "She was reading books."
+          ],
+          "answer": "She reads books."
+        },
+        {
+          "en": "Change to past continuous: When I arrived, he slept.",
+          "options": [
+            "When I arrived, he was sleeping.",
+            "When I arrived, he is sleeping.",
+            "When I arrived, he has slept.",
+            "When I arrived, he sleeps."
+          ],
+          "answer": "When I arrived, he was sleeping."
+        },
+        {
+          "en": "Change to past perfect: After she left, I realized my mistake.",
+          "options": [
+            "After she had left, I realized my mistake.",
+            "After she has left, I realized my mistake.",
+            "After she leaves, I realized my mistake.",
+            "After she was leaving, I realized my mistake."
+          ],
+          "answer": "After she had left, I realized my mistake."
+        },
+        {
+          "en": "Change to present continuous: He watches TV every evening.",
+          "options": [
+            "He is watching TV.",
+            "He was watching TV.",
+            "He has watched TV.",
+            "He watched TV."
+          ],
+          "answer": "He is watching TV."
+        },
+        {
+          "en": "Change to future continuous: At this time tomorrow, we travel to Nizwa.",
+          "options": [
+            "At this time tomorrow, we will be travelling to Nizwa.",
+            "At this time tomorrow, we are travelling to Nizwa.",
+            "At this time tomorrow, we travelled to Nizwa.",
+            "At this time tomorrow, we have travelled to Nizwa."
+          ],
+          "answer": "At this time tomorrow, we will be travelling to Nizwa."
+        },
+        {
+          "en": "Change to simple past: She writes three emails this morning.",
+          "options": [
+            "She wrote three emails this morning.",
+            "She is writing three emails this morning.",
+            "She has written three emails this morning.",
+            "She was writing three emails this morning."
+          ],
+          "answer": "She wrote three emails this morning."
+        },
+        {
+          "en": "Change to present perfect: We see that movie twice already.",
+          "options": [
+            "We have seen that movie twice already.",
+            "We saw that movie twice already.",
+            "We are seeing that movie twice already.",
+            "We will see that movie twice already."
+          ],
+          "answer": "We have seen that movie twice already."
+        },
+        {
+          "en": "Change to simple present: Water is boiling at 100 degrees.",
+          "options": [
+            "Water boils at 100 degrees.",
+            "Water boiled at 100 degrees.",
+            "Water has boiled at 100 degrees.",
+            "Water was boiling at 100 degrees."
+          ],
+          "answer": "Water boils at 100 degrees."
+        }
+      ]
+    },
+    "Subject–Verb Agreement (basic)": {
+      "lessons": [
+        {
+          "en": "THIRD PERSON SINGULAR RULE\nIn present tense, 3rd person singular (he, she, it, singular noun) adds -s or -es to the base verb.\nExample: He walks / She plays / It runs."
+        },
+        {
+          "en": "Add -s to most verbs for 3rd person singular.\nExamples: speak → speaks, read → reads, love → loves, work → works, help → helps."
+        },
+        {
+          "en": "Add -es to verbs ending in s, x, z, ch, sh for 3rd person singular.\nExamples: pass → passes, mix → mixes, buzz → buzzes, catch → catches, wash → washes."
+        },
+        {
+          "en": "Verbs ending in consonant + y change y to i and add -es. Verbs ending in vowel + y just add -s.\nExamples: try → tries, cry → cries, study → studies, play → plays, stay → stays."
+        },
+        {
+          "en": "GENERAL SVA RULES\nSingular subjects take singular verbs; plural subjects take plural verbs.\nExample: The dog barks / The dogs bark. / He reads / They read."
+        },
+        {
+          "en": "Use 'is' with singular nouns and 3rd person singular pronouns (he, she, it); use 'are' with plural nouns and pronouns (I, you, we, they).\nExample: She is busy / They are busy / The book is new / The books are new."
+        },
+        {
+          "en": "Collective nouns (team, group, family, class, committee) are usually singular and take singular verbs.\nExample: The team is winning / The class is studying / The family has gathered."
+        },
+        {
+          "en": "Singular indefinite pronouns—everyone, everybody, someone, somebody, anyone, anybody, each, either, neither, nothing—take singular verbs.\nExample: Everyone is ready / Somebody has lost their keys / Each student gets a certificate."
+        },
+        {
+          "en": "Compound subjects joined by 'and' usually take plural verbs (treat as multiple).\nExample: Ram and Sita are friends / The teacher and students are happy."
+        },
+        {
+          "en": "Subjects joined by 'or' or 'nor' take a verb that agrees with the nearest (closest) subject.\nExample: Either you or he is coming / Neither she nor they are present / The boys or the girl has the answer."
+        },
+        {
+          "en": "Uncountable nouns (water, milk, sand, information, advice, luggage, furniture) take singular verbs even though they may seem plural.\nExample: Water is essential / The advice is helpful / Your luggage has arrived."
+        },
+        {
+          "en": "Words like 'news', 'mathematics', 'physics', 'economics' are singular despite ending in 's'.\nExample: The news is shocking / Mathematics is difficult / Physics has many theories."
+        }
+      ],
+      "examples": [
+        {
+          "en": "3rd person singular +s: He plays / She reads / It runs / The dog barks."
+        },
+        {
+          "en": "3rd person singular +es (s,x,z,ch,sh): He passes / She mixes / It buzzes / He catches."
+        },
+        {
+          "en": "Consonant + y → i + es: He tries / She studies / The child cries."
+        },
+        {
+          "en": "Vowel + y just +s: She plays / He stays / The child prays."
+        },
+        {
+          "en": "Singular vs Plural: The boy plays (singular) / The boys play (plural)."
+        },
+        {
+          "en": "Collective nouns: The team is winning / The class has finished / The committee is meeting."
+        },
+        {
+          "en": "Singular indefinites: Everyone is ready / Someone has arrived / Neither child is ready."
+        },
+        {
+          "en": "Compound (and): Ram and Sita are friends / The teacher and students are happy."
+        },
+        {
+          "en": "Compound (or/nor nearest rule): Either you or he is coming / The boys or the girl has the answer."
+        },
+        {
+          "en": "Uncountable (singular verb): Water is essential / The advice is helpful / News is important."
+        },
+        {
+          "en": "With 'there is/are': There is a book / There are books / There is a cat / There are cats."
+        },
+        {
+          "en": "Regular verbs 3rd singular: speak → speaks / help → helps / work → works / read → reads."
+        },
+        {
+          "en": "Irregular verb 'be': I am / He is / She is / You are / They are / We are."
+        },
+        {
+          "en": "Irregular verb 'have': He has / She has / They have / I have / You have."
+        },
+        {
+          "en": "Irregular verb 'go': He goes / She goes / I go / They go."
+        },
+        {
+          "en": "Irregular verb 'do': He does / She does / I do / You do / We do / They do."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Complete: She _____ (play) tennis every day."
+        },
+        {
+          "en": "Complete: The cat _____ (jump) on the wall."
+        },
+        {
+          "en": "Complete: He _____ (study) hard for exams."
+        },
+        {
+          "en": "Complete: She _____ (cry) when she is sad."
+        },
+        {
+          "en": "Complete: He _____ (pass) the test easily."
+        },
+        {
+          "en": "Complete: The dog _____ (barks/bark) at the door."
+        },
+        {
+          "en": "Fix error: He go to school every day."
+        },
+        {
+          "en": "Fix error: She do not like milk."
+        },
+        {
+          "en": "Fix error: The team are winning."
+        },
+        {
+          "en": "Choose: Either of them _____ (is/are) correct."
+        }
+      ],
+      "tests": [
+        {
+          "en": "Complete: He _____ (play) football every day.",
+          "options": [
+            "plays",
+            "play",
+            "playing",
+            "played"
+          ],
+          "answer": "plays"
+        },
+        {
+          "en": "Complete: She _____ (study) mathematics.",
+          "options": [
+            "studies",
+            "study",
+            "studying",
+            "studied"
+          ],
+          "answer": "studies"
+        },
+        {
+          "en": "Complete: The bird _____ (fly) in the sky.",
+          "options": [
+            "flies",
+            "fly",
+            "flying",
+            "flew"
+          ],
+          "answer": "flies"
+        },
+        {
+          "en": "Complete: He _____ (try) his best.",
+          "options": [
+            "tries",
+            "try",
+            "trying",
+            "tried"
+          ],
+          "answer": "tries"
+        },
+        {
+          "en": "Fix error: He go to school every day.",
+          "options": [
+            "He goes to school every day.",
+            "He going to school every day.",
+            "He gone to school every day.",
+            "He went to school every day."
+          ],
+          "answer": "He goes to school every day."
+        },
+        {
+          "en": "Fix error: She do not like milk.",
+          "options": [
+            "She does not like milk.",
+            "She did not like milk.",
+            "She doing not like milk.",
+            "She done not like milk."
+          ],
+          "answer": "She does not like milk."
+        },
+        {
+          "en": "Fix error: The team are winning.",
+          "options": [
+            "The team is winning.",
+            "The team be winning.",
+            "The team was winning.",
+            "The team were winning."
+          ],
+          "answer": "The team is winning."
+        },
+        {
+          "en": "Choose: Either of them _____ correct.",
+          "options": [
+            "is",
+            "are",
+            "be",
+            "were"
+          ],
+          "answer": "is"
+        },
+        {
+          "en": "Fix: You is my best friend.",
+          "options": [
+            "You are my best friend.",
+            "You am my best friend.",
+            "You was my best friend.",
+            "You be my best friend."
+          ],
+          "answer": "You are my best friend."
+        },
+        {
+          "en": "Complete: The box _____ (contain) jewels.",
+          "options": [
+            "contains",
+            "contain",
+            "containing",
+            "contained"
+          ],
+          "answer": "contains"
+        },
+        {
+          "en": "Fix: The team play well together.",
+          "options": [
+            "The team plays well together.",
+            "The team playing well together.",
+            "The team played well together.",
+            "The team were playing well together."
+          ],
+          "answer": "The team plays well together."
+        },
+        {
+          "en": "Fix: Everybody are happy.",
+          "options": [
+            "Everybody is happy.",
+            "Everybody be happy.",
+            "Everybody was happy.",
+            "Everybody were happy."
+          ],
+          "answer": "Everybody is happy."
+        }
+      ]
+    },
+    "Voice (simple)": {
+      "lessons": [
+        {
+          "en": "ACTIVE VOICE: The subject performs the action.\nStructure: Subject + verb + object.\nExample: The dog ate the food.\nThe subject (dog) is doing the action (ate)."
+        },
+        {
+          "en": "PASSIVE VOICE: The object becomes the subject. The action is performed on the subject.\nStructure: Subject (object from active) + form of be + past participle + by + object (subject from active).\nExample: The food was eaten by the dog.\nThe subject (food) receives the action."
+        },
+        {
+          "en": "CONVERTING ACTIVE TO PASSIVE\nStep 1: Identify the object (will become new subject).\nStep 2: Keep the tense of the main verb, add 'be' in the same tense.\nStep 3: Change the main verb to past participle.\nStep 4: Add 'by' + original subject (optional if obvious).\nExample: She wrote a letter. → A letter was written by her."
+        },
+        {
+          "en": "SIMPLE PRESENT TENSE CONVERSION\nActive: She writes a letter. → Passive: A letter is written by her.\nActive: They grow vegetables. → Passive: Vegetables are grown by them.\nActive: The teacher teaches English. → Passive: English is taught by the teacher."
+        },
+        {
+          "en": "SIMPLE PAST TENSE CONVERSION\nActive: He broke the glass. → Passive: The glass was broken by him.\nActive: They built the house. → Passive: The house was built by them.\nActive: She bought a new car. → Passive: A new car was bought by her."
+        },
+        {
+          "en": "PRESENT CONTINUOUS TENSE CONVERSION\nActive: He is reading a book. → Passive: A book is being read by him.\nActive: They are building a bridge. → Passive: A bridge is being built by them.\nActive: She is cooking dinner. → Passive: Dinner is being cooked by her."
+        },
+        {
+          "en": "PAST CONTINUOUS TENSE CONVERSION\nActive: He was reading when I came. → Passive: A book was being read by him when I came.\nActive: They were playing cricket. → Passive: Cricket was being played by them.\nActive: She was washing clothes. → Passive: Clothes were being washed by her."
+        },
+        {
+          "en": "PRESENT PERFECT TENSE CONVERSION\nActive: He has written a letter. → Passive: A letter has been written by him.\nActive: They have completed the work. → Passive: The work has been completed by them.\nActive: She has finished the project. → Passive: The project has been finished by her."
+        },
+        {
+          "en": "PAST PERFECT TENSE CONVERSION\nActive: He had finished the work before I arrived. → Passive: The work had been finished by him before I arrived.\nActive: They had eaten dinner. → Passive: Dinner had been eaten by them.\nActive: She had made the arrangements. → Passive: The arrangements had been made by her."
+        },
+        {
+          "en": "SIMPLE FUTURE TENSE CONVERSION\nActive: He will write a book. → Passive: A book will be written by him.\nActive: They will build the school. → Passive: The school will be built by them.\nActive: She will paint the house. → Passive: The house will be painted by her."
+        },
+        {
+          "en": "OMITTING 'BY + AGENT'\nWhen the agent (doer) is obvious, unknown, or not important, we often omit 'by + agent'.\nExample: The letter was written. (We don't know or don't care who wrote it.)\nExample: Coffee is served in the morning. (General knowledge—no need to mention who serves it.)\nExample: This book was published in 2020. (The publisher is not important.)"
+        },
+        {
+          "en": "SENTENCES WITH TWO OBJECTS\nSome active verbs have both direct and indirect objects.\nBoth can become the subject of a passive sentence.\nActive: The teacher gave the students books.\nPassive 1: The students were given books by the teacher. (Indirect object becomes subject.)\nPassive 2: Books were given to the students by the teacher. (Direct object becomes subject.)\nThe first passive form (with indirect object as subject) is more common."
+        },
+        {
+          "en": "VERBS THAT DON'T CHANGE TO PASSIVE\nSome verbs cannot be used in passive voice, typically those that don't take direct objects (intransitive verbs).\nExample: He sits on the chair. (Cannot say: The chair is sat on by him—sounds awkward.)\nExample: She arrived yesterday. (Cannot say: Yesterday was arrived by her.)\nExample: The child resembles his father. (Cannot make passive.)"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Simple Present Active: They make tea. → Passive: Tea is made by them."
+        },
+        {
+          "en": "Simple Present Active: The chef cooks the meal. → Passive: The meal is cooked by the chef."
+        },
+        {
+          "en": "Simple Past Active: The boy broke the window. → Passive: The window was broken by the boy."
+        },
+        {
+          "en": "Simple Past Active: The cake was eaten by him. → Active: He ate the cake."
+        },
+        {
+          "en": "Present Continuous Active: She is writing a poem. → Passive: A poem is being written by her."
+        },
+        {
+          "en": "Present Continuous Active: They are building a house. → Passive: A house is being built by them."
+        },
+        {
+          "en": "Past Continuous Active: He was reading when I arrived. → Passive: A book was being read by him when I arrived."
+        },
+        {
+          "en": "Present Perfect Active: He has finished his work. → Passive: His work has been finished by him."
+        },
+        {
+          "en": "Simple Future Active: They will publish the book. → Passive: The book will be published by them."
+        },
+        {
+          "en": "With no agent: The letter was sent. (We don't know/care who sent it.)"
+        },
+        {
+          "en": "Two objects: The teacher gave the boy a prize. → The boy was given a prize by the teacher."
+        },
+        {
+          "en": "Special case: They appointed him manager. → He was appointed manager (by them)."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Convert to passive: She paints the house."
+        },
+        {
+          "en": "Convert to passive: They delivered the package yesterday."
+        },
+        {
+          "en": "Convert to passive: The children are playing cricket."
+        },
+        {
+          "en": "Convert to passive: He has completed the assignment."
+        },
+        {
+          "en": "Convert to active: The homework was done by the students."
+        },
+        {
+          "en": "Convert to active: The invitation was sent by Fatima."
+        },
+        {
+          "en": "Convert to active: A new school is being built in our area."
+        },
+        {
+          "en": "Convert to active: The decision has been made by the principal."
+        },
+        {
+          "en": "Fill in: The letter _____ (write) by her yesterday."
+        },
+        {
+          "en": "Identify if active or passive: 'The book was read by many people.'"
+        }
+      ],
+      "tests": [
+        {
+          "en": "Convert to passive: The farmer grows crops.",
+          "options": [
+            "Crops are grown by the farmer.",
+            "Crops were grown by the farmer.",
+            "Crops have been grown by the farmer.",
+            "Crops grow by the farmer."
+          ],
+          "answer": "Crops are grown by the farmer."
+        },
+        {
+          "en": "Convert to passive: She completed the project.",
+          "options": [
+            "The project was completed by her.",
+            "The project is completed by her.",
+            "The project has completed by her.",
+            "The project completes by her."
+          ],
+          "answer": "The project was completed by her."
+        },
+        {
+          "en": "Convert to passive: They are preparing the meal.",
+          "options": [
+            "The meal is being prepared by them.",
+            "The meal was prepared by them.",
+            "The meal has been prepared by them.",
+            "The meal prepares by them."
+          ],
+          "answer": "The meal is being prepared by them."
+        },
+        {
+          "en": "Convert to passive: He had written the letter.",
+          "options": [
+            "The letter had been written by him.",
+            "The letter has been written by him.",
+            "The letter was written by him.",
+            "The letter is written by him."
+          ],
+          "answer": "The letter had been written by him."
+        },
+        {
+          "en": "Convert to active: The crime was solved by the police.",
+          "options": [
+            "The police solved the crime.",
+            "The police solve the crime.",
+            "The police have solved the crime.",
+            "The police had solved the crime."
+          ],
+          "answer": "The police solved the crime."
+        },
+        {
+          "en": "Convert to passive: The police caught the thief.",
+          "options": [
+            "The thief was caught by the police.",
+            "The thief is caught by the police.",
+            "The thief has been caught by the police.",
+            "The thief catches by the police."
+          ],
+          "answer": "The thief was caught by the police."
+        },
+        {
+          "en": "Convert to active: The project has been completed by the team.",
+          "options": [
+            "The team has completed the project.",
+            "The team completed the project.",
+            "The team completes the project.",
+            "The team had completed the project."
+          ],
+          "answer": "The team has completed the project."
+        },
+        {
+          "en": "Convert to passive: The teacher marked the papers.",
+          "options": [
+            "The papers were marked by the teacher.",
+            "The papers are marked by the teacher.",
+            "The papers have been marked by the teacher.",
+            "The papers mark by the teacher."
+          ],
+          "answer": "The papers were marked by the teacher."
+        },
+        {
+          "en": "Convert to passive: She is decorating the hall.",
+          "options": [
+            "The hall is being decorated by her.",
+            "The hall was decorated by her.",
+            "The hall has been decorated by her.",
+            "The hall decorates by her."
+          ],
+          "answer": "The hall is being decorated by her."
+        },
+        {
+          "en": "Identify: Is 'The teacher teaches the student' active or passive?",
+          "options": [
+            "Active voice",
+            "Passive voice",
+            "Both",
+            "Neither"
+          ],
+          "answer": "Active voice"
+        },
+        {
+          "en": "Convert to passive: The mechanic will repair the car.",
+          "options": [
+            "The car will be repaired by the mechanic.",
+            "The car is repaired by the mechanic.",
+            "The car was repaired by the mechanic.",
+            "The car repairs by the mechanic."
+          ],
+          "answer": "The car will be repaired by the mechanic."
+        },
+        {
+          "en": "Convert to passive: They nominated him for the award.",
+          "options": [
+            "He was nominated for the award.",
+            "He is nominated for the award.",
+            "He has been nominated for the award.",
+            "He nominates for the award."
+          ],
+          "answer": "He was nominated for the award."
+        }
+      ]
+    },
+    "Narration (statements)": {
+      "lessons": [
+        {
+          "en": "DIRECT SPEECH: Reports exact words spoken using quotation marks.\nStructure: Subject + reporting verb + exact words.\nExample: She said, 'I am happy.'\nThe speaker quotes the exact words said."
+        },
+        {
+          "en": "INDIRECT SPEECH (Reported Speech): Reports what someone said without exact words.\nStructure: Subject + reporting verb + that + indirect statement.\nExample: She said that she was happy.\nMeaning is conveyed without direct quotes."
+        },
+        {
+          "en": "COMMON REPORTING VERBS: said, told, informed, mentioned, remarked, declared, stated, claimed, announced, suggested, replied, answered, explained.\nExample: He said / He told me / He informed us / He declared / He announced"
+        },
+        {
+          "en": "TENSE CHANGES IN INDIRECT SPEECH\nSimple Present becomes Simple Past: I like tea becomes He said that he liked tea.\nPresent Continuous becomes Past Continuous: I am reading becomes She said that she was reading.\nSimple Past becomes Past Perfect: I went yesterday becomes He said that he had gone the day before.\nPresent Perfect becomes Past Perfect: I have finished becomes She said that she had finished."
+        },
+        {
+          "en": "NO TENSE CHANGE IN CERTAIN CASES\nIf reporting verb is in present tense: She says, 'I am happy' becomes She says that she is happy.\nUniversal truths: He said, 'Water boils at 100 degrees' becomes He said that water boils at 100 degrees."
+        },
+        {
+          "en": "PRONOUN CHANGES IN INDIRECT SPEECH\n1st person (I, we) becomes 3rd person (he/she, they)\nExample: I am ready becomes He said that he was ready.\n2nd person (you) may change: You are late becomes She told me that I was late."
+        },
+        {
+          "en": "TIME EXPRESSION CHANGES: today becomes that day, tomorrow becomes the next day, yesterday becomes the day before, now becomes then, last week becomes the week before, next month becomes the following month.\nExample: I will come tomorrow becomes He said that he would come the next day."
+        },
+        {
+          "en": "PLACE EXPRESSION CHANGES: here becomes there, this becomes that, these becomes those.\nExample: I am here becomes He said that he was there.\nExample: This book is mine becomes She said that that book was hers."
+        },
+        {
+          "en": "TENSE PATTERNS: Present to Past, Present Continuous to Past Continuous, Present Perfect to Past Perfect, will to would, Past to Past Perfect, Past Continuous to Past Perfect Continuous."
+        },
+        {
+          "en": "CONVERTING AFFIRMATIVE STATEMENTS\nDirect: I am a doctor (He said) becomes Indirect: He said that he was a doctor.\nDirect: She loves music (They said) becomes Indirect: They said that she loved music.\nDirect: We have finished work (He said) becomes Indirect: He said that they had finished the work."
+        },
+        {
+          "en": "CONVERTING NEGATIVE STATEMENTS\nDirect: I do not like coffee (She said) becomes Indirect: She said that she did not like coffee.\nDirect: He will not come (She said) becomes Indirect: She said that he would not come.\nThe negative structure remains in indirect speech."
+        },
+        {
+          "en": "REPORTING WITH TOLD vs SAID\nWith SAID: He said that...\nWith TOLD: He told me that... (Must have indirect object)\nUse told when the listener is important or mentioned."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Simple Present: I read books becomes He said that he read books."
+        },
+        {
+          "en": "Present Continuous: I am cooking becomes She said that she was cooking."
+        },
+        {
+          "en": "Present Perfect: I have eaten becomes He said that he had eaten."
+        },
+        {
+          "en": "Simple Past: I went to school becomes She said that she had gone to school."
+        },
+        {
+          "en": "Simple Future: I will help becomes He said that he would help."
+        },
+        {
+          "en": "With told: I am ready becomes She told me that she was ready."
+        },
+        {
+          "en": "Negative: I don't like tea becomes She said that she didn't like tea."
+        },
+        {
+          "en": "Time change: I came today becomes He said that he had come that day."
+        },
+        {
+          "en": "Place change: I am here becomes She said that she was there."
+        },
+        {
+          "en": "Universal truth: The sun rises in the east becomes He said that the sun rises in the east."
+        },
+        {
+          "en": "Pronoun change: We are ready becomes They said that they were ready."
+        },
+        {
+          "en": "Multiple changes: I will come tomorrow becomes He said that he would come the next day."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Convert: I like music (She said) to indirect."
+        },
+        {
+          "en": "Convert: I am studying (He said) to indirect."
+        },
+        {
+          "en": "Convert: I will help you (He said) to indirect."
+        },
+        {
+          "en": "Convert: I went to Delhi yesterday (She said) to indirect."
+        },
+        {
+          "en": "Convert: I do not like coffee (He said) to indirect."
+        },
+        {
+          "en": "Convert with told: You are late (She told him) to indirect."
+        },
+        {
+          "en": "Change time: I will come tomorrow (He said) with time change."
+        },
+        {
+          "en": "Change place: I am here (She said) with place change."
+        },
+        {
+          "en": "Universal truth: Water boils at 100 degrees (Teacher said) to indirect."
+        },
+        {
+          "en": "Negative statement: They don't speak English (He said) to indirect."
+        }
+      ],
+      "tests": [
+        {
+          "en": "Convert to indirect: I am happy (She said)",
+          "options": [
+            "She said that she was happy.",
+            "She said that she is happy.",
+            "She said that I was happy.",
+            "She says that she was happy."
+          ],
+          "answer": "She said that she was happy."
+        },
+        {
+          "en": "Convert to indirect: I like tea (He said)",
+          "options": [
+            "He said that he liked tea.",
+            "He said that he likes tea.",
+            "He said that I liked tea.",
+            "He says that he liked tea."
+          ],
+          "answer": "He said that he liked tea."
+        },
+        {
+          "en": "Convert to indirect: I am reading (She said)",
+          "options": [
+            "She said that she was reading.",
+            "She said that she is reading.",
+            "She said that I was reading.",
+            "She says that she was reading."
+          ],
+          "answer": "She said that she was reading."
+        },
+        {
+          "en": "Convert to indirect: I have finished (He said)",
+          "options": [
+            "He said that he had finished.",
+            "He said that he has finished.",
+            "He said that I had finished.",
+            "He says that he had finished."
+          ],
+          "answer": "He said that he had finished."
+        },
+        {
+          "en": "Convert to indirect: I will come (She said)",
+          "options": [
+            "She said that she would come.",
+            "She said that she will come.",
+            "She said that I would come.",
+            "She says that she would come."
+          ],
+          "answer": "She said that she would come."
+        },
+        {
+          "en": "Convert to indirect: I went to school (He said)",
+          "options": [
+            "He said that he had gone to school.",
+            "He said that he went to school.",
+            "He said that I had gone to school.",
+            "He says that he had gone to school."
+          ],
+          "answer": "He said that he had gone to school."
+        },
+        {
+          "en": "Universal truth: Water boils at 100°C (Teacher said)",
+          "options": [
+            "Teacher said that water boils at 100°C.",
+            "Teacher said that water boiled at 100°C.",
+            "Teacher said that water had boiled at 100°C.",
+            "Teacher says that water boils at 100°C."
+          ],
+          "answer": "Teacher said that water boils at 100°C."
+        },
+        {
+          "en": "Convert to indirect: I am very happy (They said)",
+          "options": [
+            "They said that they were very happy.",
+            "They said that they are very happy.",
+            "They said that I was very happy.",
+            "They say that they were very happy."
+          ],
+          "answer": "They said that they were very happy."
+        },
+        {
+          "en": "Convert with told: You should work hard (He told me)",
+          "options": [
+            "He told me that I should work hard.",
+            "He told me that you should work hard.",
+            "He said me that I should work hard.",
+            "He told that I should work hard."
+          ],
+          "answer": "He told me that I should work hard."
+        },
+        {
+          "en": "Convert to indirect: I do not like this food (She said)",
+          "options": [
+            "She said that she did not like that food.",
+            "She said that she does not like this food.",
+            "She said that I did not like that food.",
+            "She says that she did not like that food."
+          ],
+          "answer": "She said that she did not like that food."
+        },
+        {
+          "en": "Convert to indirect: I have already done it (He said)",
+          "options": [
+            "He said that he had already done it.",
+            "He said that he has already done it.",
+            "He said that I had already done it.",
+            "He says that he had already done it."
+          ],
+          "answer": "He said that he had already done it."
+        },
+        {
+          "en": "Convert with time change: I will go tomorrow (She said)",
+          "options": [
+            "She said that she would go the next day.",
+            "She said that she will go tomorrow.",
+            "She said that I would go the next day.",
+            "She says that she would go the next day."
+          ],
+          "answer": "She said that she would go the next day."
+        }
+      ]
+    },
+    "Modifiers (basic)": {
+      "lessons": [
+        {
+          "en": "ADJECTIVES: Words that describe or modify nouns.\nStructure: adjective + noun.\nExample: a beautiful garden, a tall boy, a red car.\nAdjectives answer: What kind? How many? Which one? What color? What size?"
+        },
+        {
+          "en": "PLACEMENT OF ADJECTIVES: Adjectives usually come before the noun in English.\nExample: She is a hardworking student. / They live in a small house. / He drives a fast car.\nAfter linking verbs (be, seem, appear, feel): She is happy. / The food tastes delicious."
+        },
+        {
+          "en": "TYPES OF ADJECTIVES\n1. Descriptive: beautiful, old, small, happy, dangerous\n2. Quantitative: many, few, some, all, several\n3. Demonstrative: this, that, these, those\n4. Possessive: my, your, his, her, our, their\n5. Interrogative: which, what, whose"
+        },
+        {
+          "en": "ADVERBS: Words that modify verbs, adjectives, or other adverbs.\nStructure: Many adverbs end in -ly.\nExample: She runs quickly. / He speaks loudly. / They work carefully.\nAdverbs answer: How? When? Where? Why? How often?"
+        },
+        {
+          "en": "PLACEMENT OF ADVERBS\n1. At the end of sentence (most common for manner adverbs): He speaks English fluently.\n2. At the beginning of sentence: Yesterday, I went to the market.\n3. Before the main verb: She always wakes up early.\n4. Near the adjective (for adverbs modifying adjectives): The movie was extremely interesting."
+        },
+        {
+          "en": "ADVERB FORMATION: Most adverbs are formed by adding -ly to adjectives.\nadjective + ly = adverb\nquick → quickly, slow → slowly, careful → carefully, beautiful → beautifully, happy → happily\nExceptions: fast → fast, hard → hard, good → well, late → late"
+        },
+        {
+          "en": "MISPLACED MODIFIERS: Modifiers placed away from the word they modify, causing confusion.\nWrong: I saw a dog running through the park with a limp. (Does the park have a limp?)\nCorrect: I saw a dog with a limp running through the park.\nWrong: She bought a gift for her mother wrapped in paper.\nCorrect: She bought a wrapped gift for her mother. (or: She bought a gift wrapped in paper for her mother.)"
+        },
+        {
+          "en": "DANGLING MODIFIERS: Introductory phrases that don't have a clear subject to modify.\nWrong: Running through the park, the rain started. (Rain can't run.)\nCorrect: Running through the park, I got caught in the rain.\nWrong: After finishing my homework, the TV was turned on.\nCorrect: After finishing my homework, I turned on the TV."
+        },
+        {
+          "en": "COMPARATIVE ADJECTIVES: Compare two things using -er or 'more'.\nOne syllable: add -er. tall → taller, big → bigger, small → smaller\nTwo+ syllables: use 'more'. beautiful → more beautiful, interesting → more interesting\nIrregular: good → better, bad → worse, far → farther/further\nExample: This book is better than that one. / She is more talented than her sister."
+        },
+        {
+          "en": "SUPERLATIVE ADJECTIVES: Compare three or more things using -est or 'most'.\nOne syllable: add -est. tall → tallest, big → biggest, small → smallest\nTwo+ syllables: use 'most'. beautiful → most beautiful, interesting → most interesting\nIrregular: good → best, bad → worst, far → farthest/furthest\nExample: This is the best book I have read. / She is the most talented student in class."
+        },
+        {
+          "en": "ORDER OF ADJECTIVES: When multiple adjectives describe one noun, use this order:\n1. Opinion (beautiful, awful, good)\n2. Size (big, small, large, tiny)\n3. Age (old, new, young)\n4. Color (red, blue, green)\n5. Origin (French, Indian, Italian)\n6. Material (wooden, plastic, silk)\nExample: a beautiful large old red wooden house. / a small Italian leather bag."
+        },
+        {
+          "en": "ADVERBIAL PHRASES: Groups of words that function as adverbs.\nExample: He arrived in the morning. / They walked at a slow pace. / She spoke with confidence.\nThese describe how, when, where, or why something happens."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Descriptive adjective: The beautiful sunset was amazing."
+        },
+        {
+          "en": "Quantitative adjective: There are many students in the class."
+        },
+        {
+          "en": "Demonstrative adjective: This book is mine."
+        },
+        {
+          "en": "Adverb of manner: She played the piano beautifully."
+        },
+        {
+          "en": "Adverb of time: I go to school every morning."
+        },
+        {
+          "en": "Adverb of frequency: He always finishes his work on time."
+        },
+        {
+          "en": "Comparative: This car is faster than that one."
+        },
+        {
+          "en": "Superlative: She is the smartest student in the class."
+        },
+        {
+          "en": "Misplaced modifier: Correct: I saw a dog with a collar running through the park."
+        },
+        {
+          "en": "Dangling modifier fixed: After finishing breakfast, I went to school. (Subject: I)"
+        },
+        {
+          "en": "Order of adjectives: We have a small red wooden box."
+        },
+        {
+          "en": "Adverbial phrase: The meeting was held in the afternoon."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Add adjective: The _____ girl won the race. (use: fast)"
+        },
+        {
+          "en": "Add adverb: He speaks English _____. (use: fluent)"
+        },
+        {
+          "en": "Fix misplaced modifier: I saw a cat on the street that was scratching."
+        },
+        {
+          "en": "Fix dangling modifier: After eating lunch, the homework was done."
+        },
+        {
+          "en": "Complete: This book is _____ (good - comparative) than that one."
+        },
+        {
+          "en": "Complete: She is the _____ (beautiful - superlative) girl in the group."
+        },
+        {
+          "en": "Order adjectives: Put in correct order: shirt / beautiful / blue / old"
+        },
+        {
+          "en": "Identify the adverb: He slowly walked down the street."
+        },
+        {
+          "en": "Choose correct form: She runs _____ (quick/quickly)."
+        },
+        {
+          "en": "Correct if needed: The very beautiful old house was sold."
+        }
+      ],
+      "tests": [
+        {
+          "en": "Choose the adjective in: The small dog barked loudly.",
+          "options": [
+            "small",
+            "dog",
+            "barked",
+            "loudly"
+          ],
+          "answer": "small"
+        },
+        {
+          "en": "Choose the adverb in: She sang beautifully at the concert.",
+          "options": [
+            "beautifully",
+            "sang",
+            "She",
+            "concert"
+          ],
+          "answer": "beautifully"
+        },
+        {
+          "en": "Form adverb from 'careful':",
+          "options": [
+            "carefully",
+            "carefuller",
+            "carefulest",
+            "carefuly"
+          ],
+          "answer": "carefully"
+        },
+        {
+          "en": "Form adverb from 'quick':",
+          "options": [
+            "quickly",
+            "quicker",
+            "quickest",
+            "quickily"
+          ],
+          "answer": "quickly"
+        },
+        {
+          "en": "Choose adjective: The _____ (quick/quickly) response was appreciated.",
+          "options": [
+            "quick",
+            "quickly",
+            "quicker",
+            "quickest"
+          ],
+          "answer": "quick"
+        },
+        {
+          "en": "Choose adverb: She _____ (quick/quickly) finished the work.",
+          "options": [
+            "quickly",
+            "quick",
+            "quicker",
+            "quickest"
+          ],
+          "answer": "quickly"
+        },
+        {
+          "en": "Superlative of 'bad':",
+          "options": [
+            "worst",
+            "worse",
+            "badder",
+            "baddest"
+          ],
+          "answer": "worst"
+        },
+        {
+          "en": "Complete: This is the _____ (interesting - superlative) book.",
+          "options": [
+            "most interesting",
+            "more interesting",
+            "interestingest",
+            "interesting"
+          ],
+          "answer": "most interesting"
+        },
+        {
+          "en": "Complete: That book is _____ (interesting - comparative) than this one.",
+          "options": [
+            "more interesting",
+            "most interesting",
+            "interestinger",
+            "interesting"
+          ],
+          "answer": "more interesting"
+        },
+        {
+          "en": "Form adverb from 'immediate':",
+          "options": [
+            "immediately",
+            "immediatly",
+            "immediater",
+            "immediatest"
+          ],
+          "answer": "immediately"
+        },
+        {
+          "en": "Complete: He _____ (rare) visits the market.",
+          "options": [
+            "rarely",
+            "rare",
+            "rarer",
+            "rarest"
+          ],
+          "answer": "rarely"
+        },
+        {
+          "en": "Complete: We _____ (usual) go to school.",
+          "options": [
+            "usually",
+            "usual",
+            "usualest",
+            "usualer"
+          ],
+          "answer": "usually"
+        }
+      ]
+    },
+    "Punctuation (basic)": {
+      "lessons": [
+        {
+          "en": "FULL STOP (.): Ends a declarative sentence (statement).\nSymbol: .\nUsage: Use at the end of complete statements.\nExample: She is a doctor. The sun rises in the east. I like playing cricket.\nAlso used with abbreviations: Dr. Mr. Mrs. U.S.A. etc."
+        },
+        {
+          "en": "QUESTION MARK (?): Ends an interrogative sentence (question).\nSymbol: ?\nUsage: Use at the end of sentences asking for information.\nExample: What is your name? Where do you live? Do you like tea?\nNo full stop after question mark."
+        },
+        {
+          "en": "EXCLAMATION MARK (!): Expresses strong emotion, surprise, or emphasis.\nSymbol: !\nUsage: Use at the end of exclamatory sentences.\nExample: What a beautiful day! I love this! Help me!\nUse sparingly in formal writing; more common in informal writing."
+        },
+        {
+          "en": "COMMA (,): Separates items in a list, clauses, or phrases.\nSymbol: ,\nUsage in lists: apples, oranges, bananas. (Oxford comma: apples, oranges, and bananas)\nUsage in compound sentences: She plays cricket, and he plays football.\nUsage with introductory phrases: Yesterday, I went to the market.\nUsage with appositives: My brother, Ramesh, is a teacher."
+        },
+        {
+          "en": "APOSTROPHE ('): Shows possession or creates contractions.\nSymbol: '\nPossession (singular): the boy's book, the student's name, John's pen.\nPossession (plural): the boys' books, the students' names (if plural ends in s, apostrophe after).\nContractions: don't (do not), can't (cannot), I'm (I am), he's (he is), won't (will not)."
+        },
+        {
+          "en": "QUOTATION MARKS (\" \"): Encloses direct speech or exact words.\nSymbol: \" \" (opening and closing)\nUsage in dialogue: She said, \"I am happy.\"\nUsage for direct quotes: He remarked, \"This is important.\"\nComma before closing quote: He said, \"Let's go,\" and left.\nQuestion/exclamation within quotes: She asked, \"Where are you going?\" He shouted, \"Stop!\""
+        },
+        {
+          "en": "COLON (:): Introduces a list, explanation, or quote.\nSymbol: :\nIntroducing a list: The ingredients are: flour, sugar, eggs, butter.\nIntroducing an explanation: Remember this: always arrive on time.\nIntroducing a quote: The teacher said: \"Pay attention in class.\"\nAlso used in time notation: 2:30 PM, 14:45 hours."
+        },
+        {
+          "en": "SEMICOLON (;): Joins two independent clauses or separates items in a complex list.\nSymbol: ;\nJoining clauses: She is hardworking; he is lazy.\nSeparating items: I visited Paris, France; Rome, Italy; and London, England.\nOften replaced by period or comma depending on relationship between clauses."
+        },
+        {
+          "en": "HYPHEN (-): Joins compound words or separates syllables at line end.\nSymbol: -\nCompound words: mother-in-law, well-known, up-to-date, self-confident.\nAdjectives: a well-written essay, a long-distance call.\nNote: Different from em-dash or en-dash."
+        },
+        {
+          "en": "PARENTHESES ( ): Enclose extra information or clarification.\nSymbol: ( ) (opening and closing)\nUsage: He was born in 1995 (in Mumbai). The Nobel Prize (established 1901) honors scientific achievement.\nIn lists: Follow these steps: (1) wash hands, (2) prepare ingredients, (3) cook.\nTone: Information in parentheses is less important than main text."
+        },
+        {
+          "en": "ELLIPSIS (...): Shows omission or trailing off.\nSymbol: ...\nOmission of words: He said, \"I am going to... never mind.\"\nTrailing off: I think we should... maybe go home?\nAlso used in writing to show pause: She waited... and waited... but he never came.\nThree dots: ... (sometimes four at end of sentence: ....)"
+        },
+        {
+          "en": "DASH / EM-DASH (—): Adds emphasis, interruption, or sudden change.\nSymbol: —\nUsage for emphasis: She has one dream—to become a doctor.\nUsage for interruption in dialogue: \"I think we should—\" \"No, I disagree!\"\nUsage for sudden change: He was happy yesterday—today he's sad.\nDifferent from hyphen; creates stronger break than comma."
+        }
+      ],
+      "examples": [
+        {
+          "en": "Full stop (.): The sky is blue. He works in a hospital."
+        },
+        {
+          "en": "Question mark (?): How are you? When will you come?"
+        },
+        {
+          "en": "Exclamation mark (!): What an amazing performance! Good morning!"
+        },
+        {
+          "en": "Comma (,): I like reading, writing, and painting."
+        },
+        {
+          "en": "Apostrophe ('): This is my friend's house. The students' books are here."
+        },
+        {
+          "en": "Apostrophe (') contraction: I'm happy. She can't swim. We won't go."
+        },
+        {
+          "en": "Quotation marks (\" \"): He said, \"I am tired.\" She asked, \"Where is the bathroom?\""
+        },
+        {
+          "en": "Colon (:): Remember this important rule: always be honest. Items needed: pen, paper, eraser."
+        },
+        {
+          "en": "Semicolon (;): She is clever; he is hardworking. We visited Delhi, India; Jaipur, India; and Agra, India."
+        },
+        {
+          "en": "Hyphen (-): My mother-in-law is kind. This is a well-known actor."
+        },
+        {
+          "en": "Parentheses ( ): The meeting is at 3 PM (in the conference room). He was born in 2000 (in Dubai)."
+        },
+        {
+          "en": "Ellipsis (...): I saw him yesterday and he said... I can't remember exactly what."
+        }
+      ],
+      "practice": [
+        {
+          "en": "Add period (.): what is your name"
+        },
+        {
+          "en": "Add punctuation (!): Wow that is amazing"
+        },
+        {
+          "en": "Add commas (,): I like apples oranges and bananas"
+        },
+        {
+          "en": "Add apostrophe ('): The boys book is on the table"
+        },
+        {
+          "en": "Punctuate dialogue (\" \"): She said I am going to the market"
+        },
+        {
+          "en": "Add colon (:): The subjects are mathematics English science"
+        },
+        {
+          "en": "Add semicolon (;): She is tall he is short"
+        },
+        {
+          "en": "Add hyphen (-): This is a well known story"
+        },
+        {
+          "en": "Add parentheses ( ): The event is tomorrow in the main hall"
+        },
+        {
+          "en": "Correct punctuation (\" \"): He said \"hello how are you\""
+        }
+      ],
+      "tests": [
+        {
+          "en": "What symbol ends a question?",
+          "options": [
+            "Question mark (?)",
+            "Period (.)",
+            "Exclamation mark (!)",
+            "Comma (,)"
+          ],
+          "answer": "Question mark (?)"
+        },
+        {
+          "en": "What symbol shows strong emotion?",
+          "options": [
+            "Exclamation mark (!)",
+            "Period (.)",
+            "Question mark (?)",
+            "Comma (,)"
+          ],
+          "answer": "Exclamation mark (!)"
+        },
+        {
+          "en": "What does a comma (,) do in a sentence?",
+          "options": [
+            "Separates items in a list or ideas",
+            "Ends a sentence",
+            "Shows possession",
+            "Asks a question"
+          ],
+          "answer": "Separates items in a list or ideas"
+        },
+        {
+          "en": "What does an apostrophe (') show?",
+          "options": [
+            "Possession or contractions",
+            "Ends a sentence",
+            "Separates ideas",
+            "Asks a question"
+          ],
+          "answer": "Possession or contractions"
+        },
+        {
+          "en": "Correct: The boys book is new.",
+          "options": [
+            "The boy's book is new.",
+            "The boys' book is new.",
+            "The boy book is new.",
+            "The boys book is new."
+          ],
+          "answer": "The boy's book is new."
+        },
+        {
+          "en": "Fix apostrophe: Ive lost my keys",
+          "options": [
+            "I've lost my keys.",
+            "Ive' lost my keys.",
+            "I'v lost my keys.",
+            "Iv'e lost my keys."
+          ],
+          "answer": "I've lost my keys."
+        },
+        {
+          "en": "Fix with question mark: Where is your book",
+          "options": [
+            "Where is your book?",
+            "Where is your book.",
+            "Where is your book!",
+            "Where is your book,"
+          ],
+          "answer": "Where is your book?"
+        },
+        {
+          "en": "Fix with exclamation mark: Stop doing that",
+          "options": [
+            "Stop doing that!",
+            "Stop doing that.",
+            "Stop doing that?",
+            "Stop doing that,"
+          ],
+          "answer": "Stop doing that!"
+        },
+        {
+          "en": "Add hyphen: This is a self made success story",
+          "options": [
+            "This is a self-made success story.",
+            "This is a self made success story.",
+            "This is a self, made success story.",
+            "This is a self.made success story."
+          ],
+          "answer": "This is a self-made success story."
+        },
+        {
+          "en": "Fix apostrophe: She didnt go",
+          "options": [
+            "She didn't go.",
+            "She did'nt go.",
+            "She didnt' go.",
+            "She di'dnt go."
+          ],
+          "answer": "She didn't go."
+        },
+        {
+          "en": "Fix commas: I like reading writing and playing",
+          "options": [
+            "I like reading, writing, and playing.",
+            "I like reading writing and playing.",
+            "I like reading, writing and, playing.",
+            "I like, reading, writing, and, playing."
+          ],
+          "answer": "I like reading, writing, and playing."
+        },
+        {
+          "en": "Punctuate exclamation: what a wonderful day this is",
+          "options": [
+            "What a wonderful day this is!",
+            "What a wonderful day this is.",
+            "What a wonderful day this is?",
+            "what a wonderful day this is!"
+          ],
+          "answer": "What a wonderful day this is!"
+        }
+      ]
+    }
+  }
+}
